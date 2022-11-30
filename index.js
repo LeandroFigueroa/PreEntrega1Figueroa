@@ -28,7 +28,7 @@ while (service != "esc") {
             alert(text("premium", resultado))
             break
         default:
-            alert("Error, vuelva a escribir su servicio")
+            alert("Error, vuelva a escribir el numero de su suscripcion")
             break
         
     }
